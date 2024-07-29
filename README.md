@@ -45,3 +45,4 @@ The "play-arrow" can of course be change to any other text belonging to an icon.
 
 ### Screenshot 
 <figure><img src='./src/assets/desktop-mode.png'></figure>
+# exercise-react-media-player

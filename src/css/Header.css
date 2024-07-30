@@ -1,11 +1,13 @@
-.nav {
+.header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #38354b;
+  background-color: var(--bg);
   color: white;
+  padding-block: 1.5rem;
 }
 
-span {
+.span {
   cursor: pointer;
+  font-size: 2rem;
 }

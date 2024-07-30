@@ -1,0 +1,23 @@
+.section-play {
+  background-color: var(--listCard);
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.img-right {
+  height: 50%;
+  width: 50%;
+}
+.playBtn {
+  font-size: 3rem;
+  color: var(--btnColor);
+}
+.playBtnSmall {
+  font-size: 1.5rem;
+  color: var(--btnColor);
+}
+.shuffleBtn {
+  color: var(--btnLight);
+}

@@ -2,7 +2,7 @@ import { Header, SectionList, PlayMusic } from '.'
 import '../css/App.css'
 import { musicData } from '../data'
 export function App() {
-  const selectedMusic = musicData[8]
+  const selectedMusic = musicData[2]
   return (
     <>
       <Header music={selectedMusic} />

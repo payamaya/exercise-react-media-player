@@ -1,5 +1,5 @@
 // import { musicData } from '../data'
-import { images } from '../Images'
+// import { images } from '../Images'
 import '../css/PlayMusic.css'
 import { SectionPlay } from './SectionPlay'
 import { Progress } from './Progress'

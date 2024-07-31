@@ -25,6 +25,9 @@ img {
   padding: 0;
   border: 0;
 }
+.material-symbols-outlined {
+  cursor: pointer;
+}
 .section {
   width: 100%;
 }

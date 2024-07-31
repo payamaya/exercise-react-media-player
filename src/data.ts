@@ -1,4 +1,3 @@
-// src/data/musicData.ts
 import { IMusic } from './interfaces'
 import { images } from './Images'
 
@@ -64,54 +63,4 @@ export const musicData: IMusic[] = [
     src: images.ten,
   },
 ]
-
-// export const links: ILink[] = [{ id: '1', title: 'Hello', i: 'more_vert' }]
-// export const icons: IIcons = {
-//   data: [
-//     {
-//       id: '1',
-//       classes: 'material-symbols-outlined',
-//       value: 'more_vert',
-//     },
-//     {
-//       id: '2',
-//       classes: 'material-symbols-outlined',
-//       value: 'chevron_backward',
-//     },
-//     {
-//       id: '3',
-//       classes: 'material-symbols-outlined',
-//       value: 'play_circle',
-//     },
-//     {
-//       id: '4',
-//       classes: 'material-symbols-outlined',
-//       value: 'favorite',
-//     },
-//     {
-//       id: '5',
-//       classes: 'material-symbols-outlined',
-//       value: 'fast_forward',
-//     },
-//     {
-//       id: '6',
-//       classes: 'material-symbols-outlined',
-//       value: 'fast_rewind',
-//     },
-//     {
-//       id: '7',
-//       classes: 'material-symbols-outlined',
-//       value: 'shuffle',
-//     },
-//     {
-//       id: '8',
-//       classes: 'material-symbols-outlined',
-//       value: 'repeat',
-//     },
-//     {
-//       id: '9',
-//       classes: 'material-symbols-outlined',
-//       value: 'chevron_left',
-//     },
-//   ],
-// }
+export type { IMusic }
